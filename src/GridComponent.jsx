@@ -12,10 +12,10 @@ return(
             </div>
             <div className="profile">
                 <div className="profile-img">
-                <img src="https://imgs.search.brave.com/JIgrqgjjOto--ivRHrRS7uuGlBE_SHkmmVp8ZIBSAps/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9saXZl/LnN0YXRpY2ZsaWNr/ci5jb20vNzAxNy82/NzUwMjI2NTE3Xzll/NGYzOWIzYzcuanBn" alt="img" />
+                <img src="https://imgs.search.brave.com/p4Pz6USv0Np57kAh0NHZE4B4V8xnUAD0-yMPE1siUgI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9leHBl/cnRwaG90b2dyYXBo/eS5iLWNkbi5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDgvcHJvZmlsZS1w/aG90b3MtNC5qcGc" alt="img" />
                 </div>
                 <div className="profile-content">
-                    <h3>Lana del rey</h3>
+                    <h3>taylor swift</h3>
                     <h5>Head of SEO</h5>
                 </div>
             </div>
@@ -29,11 +29,11 @@ return(
             </div>
             <div className="profile">
                 <div className="profile-img">
-                <img src="https://imgs.search.brave.com/JIgrqgjjOto--ivRHrRS7uuGlBE_SHkmmVp8ZIBSAps/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9saXZl/LnN0YXRpY2ZsaWNr/ci5jb20vNzAxNy82/NzUwMjI2NTE3Xzll/NGYzOWIzYzcuanBn" alt="img" />
+                <img src="https://imgs.search.brave.com/ZOReEZtWvW9kE-5mHYJmbezoSFN6vNK7EllAJ6GMV4Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/bXktcGVyc29uYWwt/cHJvZmlsZS1waWN0/dXJlLWZvci1iYXNp/Y2FsbHktZXZlcnl0/aGluZy12MC1uN2sy/dzA2bjJyaWQxLmpw/ZWc_d2lkdGg9NjQw/JmNyb3A9c21hcnQm/YXV0bz13ZWJwJnM9/MGI1N2EwNDhkY2Jh/YjBiZGY1M2E2OGEx/YThhNzg3OTE5Yjk1/ZjkyMw" alt="img" />
                 </div>
                 <div className="profile-content">
-                    <h3>Lana del rey</h3>
-                    <h5>Head of SEO</h5>
+                    <h3>kendric kelly</h3>
+                    <h5>volunteer</h5>
                 </div>
             </div>
         </div>
@@ -45,11 +45,11 @@ return(
             </div>
             <div className="profile">
                 <div className="profile-img">
-                <img src="https://imgs.search.brave.com/JIgrqgjjOto--ivRHrRS7uuGlBE_SHkmmVp8ZIBSAps/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9saXZl/LnN0YXRpY2ZsaWNr/ci5jb20vNzAxNy82/NzUwMjI2NTE3Xzll/NGYzOWIzYzcuanBn" alt="img" />
+                <img src="https://imgs.search.brave.com/VPavFP4b2jxF-hcKMBnpBJPRRSJpw8WqL6I-ccMv2nE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMx/NzgwNDU3OC9waG90/by9vbmUtYnVzaW5l/c3N3b21hbi1oZWFk/c2hvdC1zbWlsaW5n/LWF0LXRoZS1jYW1l/cmEuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPUVxUjJMZmZw/NHRrSVl6cHFZaDhh/WUlQUnItZ21abGlS/SFJ4Y1FDNXl5bFk9" alt="img" />
                 </div>
                 <div className="profile-content">
                     <h3>Lana del rey</h3>
-                    <h5>Head of SEO</h5>
+                    <h5>counseller</h5>
                 </div>
             </div>
         </div>
@@ -60,11 +60,11 @@ return(
             </div>
             <div className="profile">
                 <div className="profile-img">
-                <img src="https://imgs.search.brave.com/JIgrqgjjOto--ivRHrRS7uuGlBE_SHkmmVp8ZIBSAps/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9saXZl/LnN0YXRpY2ZsaWNr/ci5jb20vNzAxNy82/NzUwMjI2NTE3Xzll/NGYzOWIzYzcuanBn" alt="img" />
+                <img src="https://imgs.search.brave.com/mq1dAXsF9Qfnytm3Mdozv2bqmNzMO7i4zmg2fFMi3lk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ3/NjE3MDk2OS9waG90/by9wb3J0cmFpdC1v/Zi15b3VuZy1tYW4t/cmVhZHktZm9yLWpv/Yi1idXNpbmVzcy1j/b25jZXB0LmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz13OFNs/S3YtNHU2eFl5VTA3/Q1hlQlJ2Zlc2RjBp/WXgtYTdIUjJDaE04/WmJVPQ" alt="img" />
                 </div>
                 <div className="profile-content">
-                    <h3>Lana del rey</h3>
-                    <h5>Head of SEO</h5>
+                    <h3>virat kohili</h3>
+                    <h5>Contributor</h5>
                 </div>
             </div>
         </div>
@@ -76,11 +76,11 @@ return(
             </div>
             <div className="profile">
                 <div className="profile-img">
-                <img src="https://imgs.search.brave.com/JIgrqgjjOto--ivRHrRS7uuGlBE_SHkmmVp8ZIBSAps/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9saXZl/LnN0YXRpY2ZsaWNr/ci5jb20vNzAxNy82/NzUwMjI2NTE3Xzll/NGYzOWIzYzcuanBn" alt="img" />
+                <img src="https://imgs.search.brave.com/5DF5mUj1R1Vn3jYg0CWtwMVB3TyYTSILiUpCgExbYh0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9leHBl/cnRwaG90b2dyYXBo/eS5iLWNkbi5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMTgv/MTAvMTM0NzI3ODEy/NTRfM2E2OGM0ZTcw/NF9vLmpwZw" alt="img" />
                 </div>
                 <div className="profile-content">
-                    <h3>Lana del rey</h3>
-                    <h5>Head of SEO</h5>
+                    <h3>Ana de Armas</h3>
+                    <h5>cheif</h5>
                 </div>
             </div>
         </div>

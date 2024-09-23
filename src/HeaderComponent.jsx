@@ -1,10 +1,7 @@
-import geeklogo from './assets/iconRes.png'
-import './index.css'
 
 const Header =()=>{
     return(
         <>
-        <div className='menu'>
         <nav>
             <div className="icons">
                 <img src="./src/assets/iconRes.png" alt="" />
@@ -23,7 +20,6 @@ const Header =()=>{
                 <button>Get started</button>
             </div>
         </nav>
-        </div>
         </>
     )
 }

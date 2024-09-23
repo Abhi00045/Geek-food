@@ -1,14 +1,12 @@
 import { useState } from 'react'
 // import Header from './Header.jsx'
-import './index.css'
-import Header from './Header';
 
 const Hero = ()=>{
     return(
         <>
 
         <div className='backgroundimg'>
-            <Header/>
+            {/* <Header/> */}
             <div className="content">
                 <div className="one">
                     <h1>Let us find your</h1>

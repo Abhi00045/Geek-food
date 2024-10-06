@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    padding: 60px;
+    h1{
+        text-align:start;
+        padding-left: 10px;
+        font-size: 35px;
+    }
+}
+.container{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    padding: 25px;
+    background-color: rgb(149, 156, 156);
+    height: auto;
+    border-radius: 25px;
+    /* justify-content: start;
+    align-items: start;   */
+}

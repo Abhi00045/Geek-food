@@ -1,27 +1,36 @@
-import Header from "../HeaderComponent"
-import image from "../assets/iconRes.png"
+import Header from "../components/HeaderComponent"
+import FoodData from "./data";
 import './Qoutes.css'
-import React from "react"
+// import FoodData from "./data";
 
-const QoutesPage = ({data})=>{
-    console.log(data);
-    
+const QoutesPage = ()=>{
     return(
         <>
         <Header/>
+
         <main>
-        <h1>Famous Qoutes</h1>
+        <h1>Famous Quotes</h1>
+        {
+            FoodData.map((e)=>{
+                return <>
+                
+
          {/* Qdata.map((data)=>{ */}
                 {/* // console.log(data) */}
                 <div className="container">
                 <div className="roman1">
-                <h3>{data.qoute}</h3>
-            </div>
-            <div className="roman2">
-                    <p>-</p>
+                <h1>{e.quote}....</h1>
             </div>
             <hr />
+            <div className="roman2">
+                    <p>-  {e.author}</p>
             </div>
+            
+            </div>
+        
+                </>
+            })
+        }
         </main>
         </>
     )

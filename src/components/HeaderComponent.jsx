@@ -1,3 +1,5 @@
+import { Link } from "react-router"
+import "../Home/index.css"
 
 const Header =()=>{
     return(
@@ -9,8 +11,8 @@ const Header =()=>{
             </div>
             <div className="lists">
                 <ul>
-                    <li>Home</li>
-                    <li>Qoute</li>
+                    <Link to={"/"}><li>Home</li></Link>
+                    <Link to='/qoutes'><li id='routeList'>Quote</li></Link>
                     <li>Resturants</li>
                     <li>Foods</li>
                     <li>Contact</li>

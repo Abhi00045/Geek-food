@@ -64,6 +64,24 @@ nav{
     transition: all 0.1s ;
     cursor: pointer;
   }
+  Link{
+    li{
+      /* background:  rgba(255, 255, 255, 0.799); */
+      list-style: none;
+      font-weight: 500;
+    }
+    li:hover{
+      color: rgba(36, 108, 254, 0.912);
+      transition: all 0.1s ;
+      cursor: pointer;
+    }
+  }
+}
+Link{
+  #routeList{
+    list-style: none;
+        font-weight: 500;
+  }
 }
 .getStarted{
   /* background:  rgba(255, 255, 255, 0.756); */
@@ -87,7 +105,7 @@ nav{
 .backgroundimg{
   color: white;
   height:100vh;
-  background-image: url(./assets/background.avif);
+  background-image: url(../assets/background.avif);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

@@ -9,6 +9,7 @@ main{
         text-align:start;
         padding-left: 10px;
         font-size: 35px;
+        /* color: white; */
     }
 }
 .container{
@@ -17,7 +18,7 @@ main{
     flex-direction: column;
     gap: 7px;
     padding: 25px;
-    background-color: rgb(149, 156, 156);
+    background-color: rgb(141, 162, 194);
     height: auto;
     border-radius: 25px;
     /* justify-content: start;
